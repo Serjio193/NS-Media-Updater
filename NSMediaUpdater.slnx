@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/NSMediaUpdater.Core/NSMediaUpdater.Core.csproj" />
+    <Project Path="src/NSMediaUpdater.Infrastructure/NSMediaUpdater.Infrastructure.csproj" />
+    <Project Path="src/NSMediaUpdater.Providers.Dbi/NSMediaUpdater.Providers.Dbi.csproj" />
+  </Folder>
+</Solution>
