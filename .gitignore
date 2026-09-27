@@ -427,3 +427,16 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+
+# NS Media Updater local/runtime data
+data/
+cache/
+downloads/
+temp/
+logs/
+*.db
+*.db-shm
+*.db-wal
+appsettings.Local.json
+appsettings.Development.local.json
